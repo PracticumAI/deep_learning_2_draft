@@ -5,20 +5,19 @@ The draft for Deep Learning Foundations
 1. Define a neural network.
 2. Describe how a neural network works.
 3. Discuss what can be done with neural networks.
-4. Use a deep learning pre-trained model to classify an image.
-5. Discuss TensorFlow.
-6. Discuss ResNet.
+4. Discuss deep networks.
+5. Use a deep learning pre-trained model to classify an image.
+6. Discuss TensorFlow.
+7. Discuss ResNet.
 
 # Module 2
-1. Explore history of neural network development.
-2. Describe the basis of a neural network (neuron).
-3. Identify and describe an artificial neuron (perceptron).
-4. Discuss bias and weights.
-5. Discuss deep networks.
-6. Describe and identify activation functions.
-7. Describe and simulate image processing in a small neural network.
-8. Implement and train a perceptron using TensorFlow.
-9. Use Keras' MNIST package to train an image recognition model.
+1. Describe the basis of a neural network (neuron).
+2. Identify and describe an artificial neuron (perceptron).
+3. Discuss bias and weights.
+4. Describe and identify activation functions.
+5. Describe and simulate image processing in a small neural network.
+6. Implement and train a perceptron using TensorFlow.
+7. Use Keras' MNIST package to train an image recognition model.
 
 # Module 3
 1. Describe the purpose of gradient descent.
