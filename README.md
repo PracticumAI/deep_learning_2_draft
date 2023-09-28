@@ -17,7 +17,6 @@ The draft for Deep Learning Foundations
 4. Describe and identify activation functions.
 5. Describe and simulate image processing in a small neural network.
 6. Implement and train a perceptron using TensorFlow.
-7. Use Keras' MNIST package to train an image recognition model.
 
 # Module 3
 1. Describe the purpose of gradient descent.
