@@ -19,12 +19,10 @@ The draft for Deep Learning Foundations
 6. Implement and train a perceptron using TensorFlow.
 
 # Module 3
-1. Describe the purpose of gradient descent.
-2. Describe the process of gradient descent.
-3. Discuss error loss function.
-4. Describe optimizers.
-5. Describe chain rule.
-6. Use a deep learning pre-trained model to perform Natural Language Processing.
+1. Describe the purpose and process of gradient descent.
+2. Discuss error loss function.
+3. Describe optimizers.
+4. Use a deep learning pre-trained model to perform Natural Language Processing.
 
 # Module 4
 1. Describe Transfer Learning (???)
