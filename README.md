@@ -8,7 +8,6 @@ The draft for Deep Learning Foundations
 4. Discuss deep networks.
 5. Use a deep learning pre-trained model to classify an image.
 6. Discuss Python AI Frameworks.
-7. Discuss ResNet.
 
 # Module 2
 1. Describe the basis of a neural network (neuron).
